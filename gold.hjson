@@ -1,0 +1,6 @@
+name: Gold
+  color: f2c935
+  explosiveness: 0
+  flammability: 0
+  cost: 2
+  description: A soft, shiny metal, useful in technology for its high conductivity and weather resistance.
