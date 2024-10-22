@@ -1,5 +1,6 @@
 name: Platinum 
 type: Item
+color: #a9cdd4
 flammability: -0.3
 cost: 1
 description: A tough, element-resistant metal, useful in space-related applications.
